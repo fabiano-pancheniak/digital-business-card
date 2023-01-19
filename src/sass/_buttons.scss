@@ -1,0 +1,33 @@
+.buttons-div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+
+    button{
+        width: 115px;
+        height: 34px;
+        border-radius: 4px;
+        font-weight: 500;
+        font-size: 14px;
+        border: none;
+        
+        background-repeat: no-repeat;
+    }
+    
+    .email{
+        background-color: #D1D5DB;
+        color: #374151;
+        background-image: url('../images/mail-icon.png');
+        padding-left: 24px;
+        background-position: 28px 50%;
+    }
+
+    .linkedin{
+        background-color: #5093E2;
+        background-image: url('../images/linkedin-icon.png');
+        background-position: 14px 50%;
+        padding-left: 17px;
+        color: white;
+        background-size: 20px;
+    }
+}

@@ -1,0 +1,22 @@
+footer{
+    height: 64px;
+    margin-top: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #161619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    div{
+        width: 180px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    img{
+        width: 40px;
+        height: 40px;
+        padding: 8px 0;
+    }
+}

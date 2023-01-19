@@ -1,0 +1,43 @@
+main{
+    padding: 21px 26px;
+    color: white;
+    text-align: center;
+
+    .name{
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .occupation{
+        margin-top: 2px;
+        font-size: 12.8px;
+        color: #F3BF99;
+    }
+
+    .website{
+        margin-top: 10px;
+        font-size: 10.24px;
+    }
+
+    .profile{
+        margin-top: 33px;
+        text-align: start;
+
+        h4{
+            font-weight: bold;
+            font-size: 20px;
+            line-height: 24px;
+        }
+
+        p{
+            margin-top: 5px;
+            font-size: 10.24px;
+            font-style: normal;
+            letter-spacing: 1px;
+        }
+
+        .spacing{
+            margin-top: 24px;
+        }
+    }
+}
